@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918997340868",
+    "project_id": "hungerbridge-53691",
+    "storage_bucket": "hungerbridge-53691.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918997340868:android:50df903f7d66136616af91",
+        "android_client_info": {
+          "package_name": "com.example.aahaarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918997340868-bkka3on0pv0oa243fmkrehoiahm4u9sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV6rKXi_9FepAHD4W0f1dg1MM8ZwJxCSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918997340868-bkka3on0pv0oa243fmkrehoiahm4u9sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
